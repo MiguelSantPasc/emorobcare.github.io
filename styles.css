@@ -1,0 +1,15 @@
+/* Minimal styles to center the title */
+html, body { height: 100%; margin: 0; }
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #f7f7f7;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+}
+h1 {
+  font-size: 2.5rem;
+  color: #111;
+  text-align: center;
+  margin: 0 1rem;
+}
